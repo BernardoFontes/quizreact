@@ -1,0 +1,21 @@
+.option{
+    background-color: purple;
+    border-radius: 0.5rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    cursor: pointer;
+    opacity: 0.8;
+    transition: 0.4s;
+}
+
+.option:hover{
+    opacity: 1;
+}
+
+.greenOption{
+    background-color: green;
+}
+
+.redOption{
+    background-color: red;
+}
